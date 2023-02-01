@@ -1,2 +1,2 @@
-A) Cons: Transfer Difficulties, Variable Goals
+A) Cons: Transfer Difficulties, Variable Goals.
    Pros: Iterative Development, Continuous Improvement.
