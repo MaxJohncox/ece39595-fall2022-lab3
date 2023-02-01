@@ -1,8 +1,7 @@
 A) Cons: Transfer Difficulties, Variable Goals.
    Pros: Iterative Development, Continuous Improvement.
    
-B) A scrum master supports the project owner by making sure people are adhering to the scrum processes. A project owner makes sure they are following the 
-proper timeline
+B)
 
 C)
 
