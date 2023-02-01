@@ -8,4 +8,4 @@ C) Planning Meeting, Talk about Goals, amount of work
 Daily Scrum Meeting, What did you do yesterday, what are you working on today
 Sprint Review Meeting, Project performance, major changes for future projects
 
-D)
+D) Epic is a large body of work, story is something specific that needs to be done from the perspective of an end user, bug is a bug found that needs to be fixed, issue is an individual task that needs to be worked on
